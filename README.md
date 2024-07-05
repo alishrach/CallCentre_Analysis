@@ -74,4 +74,7 @@ Customer Satisfaction: Investigate the reasons for lower satisfaction ratings an
 
 Resource Allocation: Adjust resource allocation to handle peak call times more efficiently and reduce abandon rates.
 
+**DASHBOARD:**
+![image](https://github.com/alishrach/CallCentre_Analysis/assets/153117728/d9efc1d2-189b-441c-9585-b77474976551)
+![image](https://github.com/alishrach/CallCentre_Analysis/assets/153117728/2aabba65-f1be-455e-bf84-b3e7e98228a5)
 
